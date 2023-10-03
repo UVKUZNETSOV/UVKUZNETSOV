@@ -22,10 +22,10 @@
 ![Julia](https://img.shields.io/badge/-Julia-090909?style=for-the-badge&logo=julia)
 
 ## MUSIC PRODUCTION STACK:
-<img alt="Ableton" src="https://img.shields.io/badge/Ableton live-grey?style=for-the-badge&logo=abletonlive&logoColor=white"/>
-<img alt="Bitwig" src="https://img.shields.io/badge/Bitwig studio-orange?style=for-the-badge&logo=bitwig&logoColor=white"/>
-<img alt="Cubase" src="https://img.shields.io/badge/Cubase-red?style=for-the-badge&logo=steinberg&logoColor=white"/>
-<img alt="Logic" src="https://img.shields.io/badge/logic pro-white?style=for-the-badge&logo=apple&logoColor=black"/>
+![Ableton](https://img.shields.io/badge/Ableton_live-grey?style=for-the-badge&logo=abletonlive&logoColor=white)
+![Bitwig](https://img.shields.io/badge/Bitwig_studio-orange?style=for-the-badge&logo=bitwig&logoColor=white)
+![Cubase](https://img.shields.io/badge/Cubase-red?style=for-the-badge&logo=steinberg&logoColor=white)
+![Logic](https://img.shields.io/badge/logic_pro-white?style=for-the-badge&logo=apple&logoColor=black)
 
 ## Contact info:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/uvkuznetsov)
