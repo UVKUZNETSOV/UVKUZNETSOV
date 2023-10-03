@@ -48,9 +48,7 @@ main{
 
 .item-4{ background-image: url(../img/solar.png); }
 
-.projects_item:hover{
-  transform: scale(1.01);
-}
+.projects_item:hover{ transform: scale(1.01); }
 
 .project__link-btn {
   position: absolute;
