@@ -10,6 +10,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
 ![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite)
 ![django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=orange)
 ![TS](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 
