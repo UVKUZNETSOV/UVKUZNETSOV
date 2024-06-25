@@ -13,6 +13,8 @@
 ![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite)
 ![django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=orange)
 ![TS](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
+![Mobx](https://img.shields.io/badge/-Mobx-090909?style=for-the-badge&logo=mobx)
 
 ## LANGUAGES:
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
