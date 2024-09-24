@@ -15,6 +15,7 @@
 ![TS](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 ![Mobx](https://img.shields.io/badge/-Mobx-090909?style=for-the-badge&logo=mobx)
+![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=next.js)
 
 ## LANGUAGES:
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
