@@ -25,6 +25,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=oracle)
 ![Julia](https://img.shields.io/badge/-Julia-090909?style=for-the-badge&logo=julia)
+![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go)
 
 ## Contact info:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/uvkuznetsov)
